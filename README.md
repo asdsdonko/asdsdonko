@@ -2,7 +2,7 @@
 
 Welcome!
 
-![image](https://github.com/user-attachments/assets/b9a2def3-b014-48ec-a088-81fc15486e51)
+![alt text](https://github.com/user-attachments/assets/b9a2def3-b014-48ec-a088-81fc15486e51)
 
 
 <!--
