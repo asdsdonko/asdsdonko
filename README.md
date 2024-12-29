@@ -2,6 +2,9 @@
 
 Welcome!
 
+![image](https://github.com/user-attachments/assets/b9a2def3-b014-48ec-a088-81fc15486e51)
+
+
 <!--
 **asdsdonko/asdsdonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
