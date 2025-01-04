@@ -1,6 +1,6 @@
 ## Hi!
 
-Welcome!
+Welcome! My name is Alice and I am a Computer Science student at Stanford!
 
 ### Personal Website 💻 [Website](https://asdsdonko.github.io/asdsdonko)
 
