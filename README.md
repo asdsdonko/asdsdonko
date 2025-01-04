@@ -2,7 +2,10 @@
 
 Welcome!
 
+Best frameworks and main libraries for Python3:
 
+Pytorch	Selenium	Numpy	Pandas	Sklearn	OpenCV
+Pytorch	Selenium	Numpy	Pandas	sklearn	mpl
 <!--
 **asdsdonko/asdsdonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
