@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 🧸
 
 Welcome! My name is Alice and I am a Computer Science student interested in linguistics, data science, and design!
 
