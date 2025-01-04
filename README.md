@@ -1,6 +1,6 @@
 ## Hi!
 
-Welcome! My name is Alice and I am a Computer Science student at Stanford!
+Welcome! My name is Alice and I am a Computer Science student interested in linguistics, data science, and design!
 
 ### Personal Website 💻 [Website](https://asdsdonko.github.io/asdsdonko)
 
