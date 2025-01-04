@@ -1,4 +1,4 @@
-## Hi!
+# Hi!
 
 Welcome! My name is Alice and I am a Computer Science student interested in linguistics, data science, and design!
 
@@ -7,6 +7,9 @@ Welcome! My name is Alice and I am a Computer Science student interested in ling
 ### Social media 📡  [LinkedIn](www.linkedin.com/in/alice-dos-santos-4b0a00280)
 
 ### Algorithms 🧪 [LeetCode](https://leetcode.com)
+
+## Languages and Tools 
+<div>
 
 ### Languages:
 | Python3 | JS |
