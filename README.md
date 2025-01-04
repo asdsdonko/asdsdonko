@@ -2,6 +2,12 @@
 
 Welcome!
 
+### Personal Website 💻 [Website](https://asdsdonko.github.io/asdsdonko)
+
+### Social media 📡  [LinkedIn](www.linkedin.com/in/alice-dos-santos-4b0a00280)
+
+### Algorithms 🧪 [LeetCode](https://leetcode.com)
+
 
 <!--
 **asdsdonko/asdsdonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
