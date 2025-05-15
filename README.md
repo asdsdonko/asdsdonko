@@ -4,7 +4,7 @@ Welcome! My name is Alice and I am a Computer Science student interested in ling
 
 ### Personal Website 💻 [Website](https://asdsdonko.github.io/Alice-Portfolio/)
 
-### Social media 📡  [LinkedIn](www.linkedin.com/in/alice-dos-santos-4b0a00280) 
+### Social media 📡  [LinkedIn](https://linkedin.com/in/alice-dos-santos-4b0a00280) 
 
 ### Algorithms 🧪 [LeetCode](https://leetcode.com)
 
