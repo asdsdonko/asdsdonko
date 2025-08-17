@@ -6,8 +6,6 @@ Welcome! My name is Alice and I am a Computer Science student interested in ling
 
 ### Social media 📡  [LinkedIn](https://linkedin.com/in/alice-dos-santos-4b0a00280) 
 
-### Algorithms 🧪 [LeetCode](https://leetcode.com)
-
 
 
 ## Languages and Tools 
